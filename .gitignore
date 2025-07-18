@@ -2,3 +2,5 @@
 /logs/log.tmp.log
 /.idea/*
 /www/*
+*.pyc
+*.py
